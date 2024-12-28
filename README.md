@@ -1,2 +1,0 @@
-# Bot.py
-My bot
